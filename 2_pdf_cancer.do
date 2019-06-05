@@ -213,3 +213,4 @@ putpdf clear
 save "`datapath'\version02\3-output\2019_p1appraisals_cancer_pdf.dta" ,replace
 label data "BNR-Cancer Appraisal Report"
 notes _dta :These data prepared for 2019 Period 1 (Jan-Jun) Appraisal
+**test
